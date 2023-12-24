@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, muito prazer! Me chamo João Lucas, atualmente no 2˚ ano na faculdade de Ciência da computação. Trabalho com desenvolvimento web sendo fron-end, utilizando React e Next.js. 
+Olá, muito prazer! Me chamo João Lucas, atualmente no 3˚ ano na faculdade de Ciência da computação. Trabalho com desenvolvimento web sendo fron-end, utilizando React. 
 
 
 ## 🌐 Socials:
